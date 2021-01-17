@@ -1,0 +1,25 @@
+.welcome_img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgs,
+.introduction {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imgs img {
+  width: 300px;
+}
+
+.services {
+  display: flex;
+  padding: 5px;
+}
+
+.introduction img {
+  width: 500px;
+}

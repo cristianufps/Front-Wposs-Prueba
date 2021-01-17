@@ -1,0 +1,31 @@
+.nav_menu {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+}
+
+.logo_bancario img {
+  margin-left: 10px;
+  height: 100%;
+}
+
+.logo_bancario {
+  margin-right: auto;
+}
+
+.login_controller {
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+}
+
+.title_bancario {
+  display: flex;
+  align-items: center;
+  margin: auto;
+}
