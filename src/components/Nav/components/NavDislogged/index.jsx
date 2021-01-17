@@ -20,7 +20,6 @@ const Nav = () => {
             <div className="login_controller">
                 <Link to="/signin" >Sign In</Link>
                 <Link to="/signup" >Sign Up</Link>
-                {/* <ExitToAppIcon /> */}
             </div>
 
         </div>
