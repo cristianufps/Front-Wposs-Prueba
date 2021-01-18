@@ -18,8 +18,8 @@ const Nav = () => {
             </div>
 
             <div className="login_controller">
-                <Link to="/signin" >Sign In</Link>
-                <Link to="/signup" >Sign Up</Link>
+                <Link className="button" to="/signin" >Sign In</Link>
+                <Link className="button" to="/signup" >Sign Up</Link>
             </div>
 
         </div>

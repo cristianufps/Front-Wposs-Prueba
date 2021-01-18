@@ -12,3 +12,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.button {
+  color: white;
+  background-color: #2c25b6;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  border-radius: 6px;
+}
+
+.button:hover {
+  background-color: #ebebeb;
+}
+
+.buttonRounded {
+  color: white;
+  background-color: #2c25b6;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  text-align: center;
+  border-radius: 6px;
+}

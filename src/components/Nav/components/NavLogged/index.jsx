@@ -18,7 +18,7 @@ const Nav = () => {
       </div>
 
       <div className="login_controller">
-        <Link to="/home">
+        <Link className="buttonRounded" to="/home">
           <ExitToAppIcon />
         </Link>
       </div>
